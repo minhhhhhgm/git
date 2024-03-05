@@ -4,5 +4,5 @@ const hello =()=>{
 
 
 const goodbye =()=>{
-    console.log("goodbye");
+    console.log("goodbye2222");
 }
